@@ -1,4 +1,4 @@
-- 👋 Hi I'm shecodes Luna👾🤖
+- 👋 Hi, I'm Luna👾🤖
 - 👀 I’m interested in (everything about webdev😉)
 - 🌱 I’m currently learning Html, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects
